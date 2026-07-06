@@ -6,8 +6,8 @@ Auto-synced by [LeetCode GitHub AutoSync](https://github.com)
 
 | Difficulty | Solved |
 |:----------:|:------:|
-| 🟢 Easy    | 0   |
-| 🟡 Medium  | 1   |
+| 🟢 Easy    | 1   |
+| 🟡 Medium  | 0   |
 | 🔴 Hard    | 0   |
 | **Total**  | **1** |
 
