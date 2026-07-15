@@ -6,11 +6,11 @@ Auto-synced by [LeetCode GitHub AutoSync](https://github.com)
 
 | Difficulty | Solved |
 |:----------:|:------:|
-| 🟢 Easy    | 3   |
+| 🟢 Easy    | 4   |
 | 🟡 Medium  | 2   |
 | 🔴 Hard    | 0   |
-| **Total**  | **5** |
+| **Total**  | **6** |
 
 ---
 
-*Last updated: 2026-07-13*
+*Last updated: 2026-07-15*
