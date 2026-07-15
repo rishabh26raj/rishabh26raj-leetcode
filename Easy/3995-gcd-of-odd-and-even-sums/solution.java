@@ -5,6 +5,11 @@
 
 class Solution {
     public int gcdOfOddEvenSums(int n) {
+        /* 
+        int oddSum=n*n;
+        int evenSum=n*(n+1);
+        // n is greatest commmon divisor so we can directly return n
+        */
         return n;
     }
 }
