@@ -7,10 +7,10 @@ Auto-synced by [LeetCode GitHub AutoSync](https://github.com)
 | Difficulty | Solved |
 |:----------:|:------:|
 | 🟢 Easy    | 6   |
-| 🟡 Medium  | 2   |
+| 🟡 Medium  | 3   |
 | 🔴 Hard    | 0   |
-| **Total**  | **8** |
+| **Total**  | **9** |
 
 ---
 
-*Last updated: 2026-07-27*
+*Last updated: 2026-07-31*
